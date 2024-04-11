@@ -20,6 +20,8 @@ This project implements a steering control mechanism using color detection via a
 
 ```bash
 git clone https://github.com/your-username/steering-control.git
+```
 
 ## Usage
+- Use the values you get from color.py by isolating the two labels and put it in the steering.py in colourLower variable
 
